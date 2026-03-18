@@ -1,0 +1,12 @@
+eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJybWd5YW50cmEiLCJleHAiOjE3NzM4MDkxNDUsImlhdCI6MTc3Mzc3MzE0NX0.0Np5zHGcA_COKtFatzgcs8pD7Qeq_n6du4b4evf8Fac
+Status: 201
+Response Body: {
+  campaignId: 'CAM10330',
+  campaignName: 'APIWinterTest Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-18T00:15:45.5051687'
+}

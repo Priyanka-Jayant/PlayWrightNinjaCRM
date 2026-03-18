@@ -1,0 +1,11 @@
+Status: 201
+Response Body: {
+  campaignId: 'CAM09489',
+  campaignName: 'APINinjaCRM Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-13T02:02:47.6920471'
+}

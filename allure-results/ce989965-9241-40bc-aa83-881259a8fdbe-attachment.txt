@@ -1,0 +1,11 @@
+Status: 201
+Response Body: {
+  campaignId: 'CAM09707',
+  campaignName: 'APIWinterSeven Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-13T22:31:10.2260006'
+}

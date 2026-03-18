@@ -1,0 +1,2 @@
+Status: 200
+Body: {"campaignId":"CAM10317","campaignName":"TestSeven API Campaign","campaignStatus":null,"targetSize":1000,"expectedCloseDate":null,"targetAudience":null,"description":null,"createdAt":"2026-03-17T22:57:38"}

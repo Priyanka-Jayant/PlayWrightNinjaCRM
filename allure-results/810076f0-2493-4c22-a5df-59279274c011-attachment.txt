@@ -1,0 +1,2 @@
+2026-03-11T17:16:16.923Z [INFO] Starting select search type from dropdown test
+2026-03-11T17:16:17.415Z [INFO] Select search type from dropdown test completed successfully

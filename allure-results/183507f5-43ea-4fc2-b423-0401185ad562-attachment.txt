@@ -1,0 +1,223 @@
+Calling URL: http://49.249.28.218:8098/campaign/all
+Status: 200
+Response Body: {
+  content: [
+    {
+      campaignId: 'CAM09564',
+      campaignName: 'APIWinterFive Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T07:49:04'
+    },
+    {
+      campaignId: 'CAM09561',
+      campaignName: 'DiwaliAbbie',
+      campaignStatus: 'ongoing',
+      targetSize: 10000,
+      expectedCloseDate: '2023-11-12',
+      targetAudience: 'General Public',
+      description: 'Diwali festival campaign',
+      createdAt: '2026-03-13T07:44:39'
+    },
+    {
+      campaignId: 'CAM09560',
+      campaignName: 'DiwaliBraden',
+      campaignStatus: 'ongoing',
+      targetSize: 10000,
+      expectedCloseDate: '2023-11-12',
+      targetAudience: 'General Public',
+      description: 'Diwali festival campaign',
+      createdAt: '2026-03-13T07:44:37'
+    },
+    {
+      campaignId: 'CAM09559',
+      campaignName: 'DiwaliMikel',
+      campaignStatus: 'ongoing',
+      targetSize: 10000,
+      expectedCloseDate: '2023-11-12',
+      targetAudience: 'General Public',
+      description: 'Diwali festival campaign',
+      createdAt: '2026-03-13T07:44:36'
+    },
+    {
+      campaignId: 'CAM09558',
+      campaignName: 'DiwaliClinton',
+      campaignStatus: 'ongoing',
+      targetSize: 10000,
+      expectedCloseDate: '2023-11-12',
+      targetAudience: 'General Public',
+      description: 'Diwali festival campaign',
+      createdAt: '2026-03-13T07:44:36'
+    },
+    {
+      campaignId: 'CAM09557',
+      campaignName: 'Williamson Group',
+      campaignStatus: 'active',
+      targetSize: 209,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '571',
+      description: 'Delibero tepesco dolorum charisma veritas demulceo coadunatio utique ultio.',
+      createdAt: '2026-03-13T07:44:12'
+    },
+    {
+      campaignId: 'CAM09556',
+      campaignName: 'Nitzsche, Wolf and Hyatt',
+      campaignStatus: 'active',
+      targetSize: 220,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '490',
+      description: 'Ubi usque validus nesciunt terra cena caveo carpo.',
+      createdAt: '2026-03-13T07:44:09'
+    },
+    {
+      campaignId: 'CAM09555',
+      campaignName: 'Hessel, Hauck and Dooley',
+      campaignStatus: 'active',
+      targetSize: 294,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '547',
+      description: 'Paens demens vorax cerno aranea terga decipio tertius laudantium.',
+      createdAt: '2026-03-13T07:44:09'
+    },
+    {
+      campaignId: 'CAM09554',
+      campaignName: 'Ondricka - Kirlin',
+      campaignStatus: 'active',
+      targetSize: 495,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '468',
+      description: 'Tolero sui ultio demulceo solium demonstro.',
+      createdAt: '2026-03-13T07:44:04'
+    },
+    {
+      campaignId: 'CAM09553',
+      campaignName: 'Miller, Dickinson and Reichert',
+      campaignStatus: 'active',
+      targetSize: 164,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '478',
+      description: 'Texo vestigium thorax similique substantia et.',
+      createdAt: '2026-03-13T07:44:00'
+    },
+    {
+      campaignId: 'CAM09552',
+      campaignName: 'Strosin and Sons',
+      campaignStatus: 'active',
+      targetSize: 103,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '658',
+      description: 'Debilito animadverto appono vigor quisquam spargo.',
+      createdAt: '2026-03-13T07:43:51'
+    },
+    {
+      campaignId: 'CAM09551',
+      campaignName: 'Schuppe, Klocko and Glover',
+      campaignStatus: 'active',
+      targetSize: 265,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '156',
+      description: 'Deludo crastinus verumtamen casus a nihil.',
+      createdAt: '2026-03-13T07:43:49'
+    },
+    {
+      campaignId: 'CAM09550',
+      campaignName: 'NewYearSale',
+      campaignStatus: 'Ongoing',
+      targetSize: 1000,
+      expectedCloseDate: '2025/08/30',
+      targetAudience: 'GeneralPublic',
+      description: 'dwuqgfiqwfeg',
+      createdAt: '2026-03-13T07:43:48'
+    },
+    {
+      campaignId: 'CAM09549',
+      campaignName: 'Bernier LLC',
+      campaignStatus: 'active',
+      targetSize: 180,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '533',
+      description: 'Adeptio sto termes atque.',
+      createdAt: '2026-03-13T07:43:47'
+    },
+    {
+      campaignId: 'CAM09548',
+      campaignName: 'Collier Group',
+      campaignStatus: 'active',
+      targetSize: 353,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '647',
+      description: 'Adinventitias claro correptius a.',
+      createdAt: '2026-03-13T07:43:46'
+    },
+    {
+      campaignId: 'CAM09547',
+      campaignName: 'Towne, Johnson and Kreiger',
+      campaignStatus: 'active',
+      targetSize: 15,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '559',
+      description: 'Tredecim articulus cupiditas deduco aegre.',
+      createdAt: '2026-03-13T07:43:45'
+    },
+    {
+      campaignId: 'CAM09546',
+      campaignName: 'StopPollute',
+      campaignStatus: 'Active',
+      targetSize: 250,
+      expectedCloseDate: '08/25/2025',
+      targetAudience: 'UpdatedPublic',
+      description: 'Updated',
+      createdAt: '2026-03-13T07:43:43'
+    },
+    {
+      campaignId: 'CAM09543',
+      campaignName: 'SaveEarth',
+      campaignStatus: 'Completed',
+      targetSize: -10,
+      expectedCloseDate: '08/25/2025',
+      targetAudience: 'General',
+      description: 'dwuqgfiqwfeg',
+      createdAt: '2026-03-13T07:43:39'
+    },
+    {
+      campaignId: 'CAM09542',
+      campaignName: 'SaveArea',
+      campaignStatus: 'Planned',
+      targetSize: 250,
+      expectedCloseDate: '08/28/2025',
+      targetAudience: 'general',
+      description: 'jfkdsgdghkjgfl',
+      createdAt: '2026-03-13T07:43:37'
+    },
+    {
+      campaignId: 'CAM09540',
+      campaignName: 'SaveChild',
+      campaignStatus: 'Planned',
+      targetSize: 150,
+      expectedCloseDate: '08/25/2025',
+      targetAudience: 'general',
+      description: 'og;herolhj;j;',
+      createdAt: '2026-03-13T07:43:35'
+    }
+  ],
+  pageable: {
+    sort: { unsorted: true, sorted: false, empty: true },
+    offset: 0,
+    pageNumber: 0,
+    pageSize: 20,
+    unpaged: false,
+    paged: true
+  },
+  last: false,
+  totalElements: 152,
+  totalPages: 8,
+  size: 20,
+  number: 0,
+  sort: { unsorted: true, sorted: false, empty: true },
+  first: true,
+  numberOfElements: 20,
+  empty: false
+}

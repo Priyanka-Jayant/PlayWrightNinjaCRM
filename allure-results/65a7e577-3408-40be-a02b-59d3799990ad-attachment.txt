@@ -1,0 +1,12 @@
+Updating Campaign with ID: CAM10358
+Status: 200
+Response Body: {
+  campaignId: 'CAM10358',
+  campaignName: 'TestSeventestFive API Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-18T03:30:15'
+}

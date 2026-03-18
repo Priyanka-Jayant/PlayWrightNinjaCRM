@@ -1,0 +1,3 @@
+2026-03-13T17:01:21.705Z [INFO] Starting Create Campaign test
+First row name: IRESA Campaigns
+2026-03-13T17:01:23.282Z [INFO] Create Campaign test completed successfully

@@ -1,0 +1,19 @@
+status: 200
+final url: http://49.249.28.218:8098/
+headers: {
+  'accept-ranges': 'bytes',
+  'cache-control': 'no-cache, no-store, max-age=0, must-revalidate',
+  connection: 'keep-alive',
+  'content-language': 'en-US',
+  'content-length': '3788',
+  'content-type': 'text/html;charset=UTF-8',
+  date: 'Wed, 11 Mar 2026 15:35:52 GMT',
+  expires: '0',
+  'keep-alive': 'timeout=60',
+  'last-modified': 'Tue, 03 Feb 2026 12:56:37 GMT',
+  pragma: 'no-cache',
+  vary: 'Origin, Access-Control-Request-Method, Access-Control-Request-Headers',
+  'x-content-type-options': 'nosniff',
+  'x-frame-options': 'DENY',
+  'x-xss-protection': '1; mode=block'
+}

@@ -1,0 +1,2 @@
+Status: 202
+Body: {"msg":"Successfully Logged In","username":"rmgyantra","role":"ROLE_ADMIN","jwtToken":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJybWd5YW50cmEiLCJleHAiOjE3NzMzNzMzMTEsImlhdCI6MTc3MzMzNzMxMX0.i_ePZlshMIRtZq5kJcUQlmxk_3bygfbqNvJCYVU2bNU"}

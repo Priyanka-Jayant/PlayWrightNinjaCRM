@@ -1,0 +1,8 @@
+Status: 405
+Response Body: {
+  timestamp: '2026-03-12T21:16:31.587+0000',
+  status: 405,
+  error: 'Method Not Allowed',
+  message: "Request method 'PUT' not supported",
+  path: '/campaign/CAM09182'
+}

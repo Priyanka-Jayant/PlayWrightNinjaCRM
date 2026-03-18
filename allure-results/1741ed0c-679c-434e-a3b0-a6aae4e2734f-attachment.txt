@@ -1,0 +1,2 @@
+2026-03-11T17:16:16.460Z [INFO] Starting Create Campaign test
+2026-03-11T17:16:17.677Z [INFO] Create Campaign test completed successfully

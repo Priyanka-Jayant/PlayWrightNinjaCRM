@@ -1,0 +1,3 @@
+Calling URL: http://49.249.28.218:8098/campaign/count
+Status: 200
+Campaign Count: 151

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"campaignId":"CAM09509","campaignName":"TestThree API Campaign","campaignStatus":null,"targetSize":50,"expectedCloseDate":null,"targetAudience":null,"description":null,"createdAt":"2026-03-13T02:51:13"}

@@ -1,0 +1,13 @@
+Created campaignId: CAM10339
+Updating Campaign with ID: CAM10339
+Status: 200
+Response Body: {
+  campaignId: 'CAM10339',
+  campaignName: 'TestSeventestFour API Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-18T03:25:23'
+}

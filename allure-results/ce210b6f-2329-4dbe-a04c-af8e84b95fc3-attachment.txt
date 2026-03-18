@@ -1,0 +1,2 @@
+Status: 500
+Body: Object of class [com.rmgYantra.loginapp.model.Campaign] with identifier [CAM09563]: optimistic locking failed; nested exception is org.hibernate.StaleObjectStateException: Row was updated or deleted by another transaction (or unsaved-value mapping was incorrect) : [com.rmgYantra.loginapp.model.Campaign#CAM09563]

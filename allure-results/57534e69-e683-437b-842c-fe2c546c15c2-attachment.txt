@@ -1,0 +1,11 @@
+Status: 201
+Response Body: {
+  campaignId: 'CAM10332',
+  campaignName: 'APIWinterTestTwo Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-18T03:02:16.9545317'
+}

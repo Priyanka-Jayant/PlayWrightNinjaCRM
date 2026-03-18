@@ -1,0 +1,2 @@
+2026-03-11T21:09:28.311Z [INFO] Starting search for a campaign by ID test
+2026-03-11T21:09:29.197Z [INFO] Search for a campaign by ID test completed successfully

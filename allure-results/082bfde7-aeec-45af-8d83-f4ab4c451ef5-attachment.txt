@@ -1,0 +1,3 @@
+2026-03-11T20:44:15.998Z [INFO] Starting Create Campaign test
+First row name: CAM09176
+2026-03-11T20:44:17.815Z [INFO] Create Campaign test completed successfully

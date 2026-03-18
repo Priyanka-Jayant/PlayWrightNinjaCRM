@@ -1,0 +1,11 @@
+Status: 201
+Response Body: {
+  campaignId: 'CAM09703',
+  campaignName: 'APIWintersix Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-13T22:02:03.2539605'
+}

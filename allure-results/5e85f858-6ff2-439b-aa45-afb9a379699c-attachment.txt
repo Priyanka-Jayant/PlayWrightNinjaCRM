@@ -1,0 +1,6 @@
+Status: 500
+Response Body: {
+  timestamp: '2026-03-12T21:44:05.840+0000',
+  message: "Request method 'GET' not supported",
+  details: 'uri=/campaign'
+}

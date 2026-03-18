@@ -1,0 +1,2 @@
+Status: 200
+Body: {"campaignId":"CAM10331","campaignName":"TestSeventestOne API Campaign","campaignStatus":null,"targetSize":10000,"expectedCloseDate":null,"targetAudience":null,"description":null,"createdAt":"2026-03-18T02:36:27"}

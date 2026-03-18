@@ -1,0 +1,11 @@
+Status: 201
+Response Body: {
+  campaignId: 'CAM10322',
+  campaignName: 'APIWinterEight Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-17T23:14:04.6850088'
+}

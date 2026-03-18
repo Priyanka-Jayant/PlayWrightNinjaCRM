@@ -1,0 +1,223 @@
+Calling URL: http://49.249.28.218:8098/campaign/all
+Status: 200
+Response Body: {
+  content: [
+    {
+      campaignId: 'CAM09519',
+      campaignName: 'FreshCampaign_1773351266',
+      campaignStatus: 'pass',
+      targetSize: 50,
+      expectedCloseDate: '2026-03-15',
+      targetAudience: 'IT users',
+      description: 'desc',
+      createdAt: '2026-03-13T03:04:24'
+    },
+    {
+      campaignId: 'CAM09518',
+      campaignName: 'FreshCampaign_1773351262',
+      campaignStatus: 'pass',
+      targetSize: 50,
+      expectedCloseDate: '2026-03-15',
+      targetAudience: 'IT users',
+      description: 'desc',
+      createdAt: '2026-03-13T03:04:20'
+    },
+    {
+      campaignId: 'CAM09516',
+      campaignName: 'FreshCampaign_938472615',
+      campaignStatus: 'pass',
+      targetSize: 50,
+      expectedCloseDate: '2026-03-15',
+      targetAudience: 'IT users',
+      description: 'desc',
+      createdAt: '2026-03-13T03:02:27'
+    },
+    {
+      campaignId: 'CAM09515',
+      campaignName: 'APIWinterThree Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T03:01:37'
+    },
+    {
+      campaignId: 'CAM09512',
+      campaignName: 'subcampaignfresh',
+      campaignStatus: 'pass',
+      targetSize: 50,
+      expectedCloseDate: '2026-03-15',
+      targetAudience: 'IT users',
+      description: 'desc',
+      createdAt: '2026-03-13T02:55:59'
+    },
+    {
+      campaignId: 'CAM09509',
+      campaignName: 'TestThree API Campaign',
+      campaignStatus: null,
+      targetSize: 50,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T02:51:13'
+    },
+    {
+      campaignId: 'CAM09505',
+      campaignName: 'FreshCampaign8',
+      campaignStatus: 'pass',
+      targetSize: 50,
+      expectedCloseDate: '2026-03-15',
+      targetAudience: 'IT users',
+      description: 'desc',
+      createdAt: '2026-03-13T02:47:18'
+    },
+    {
+      campaignId: 'CAM09500',
+      campaignName: 'FreshCampaign7',
+      campaignStatus: 'pass',
+      targetSize: 50,
+      expectedCloseDate: '2026-03-15',
+      targetAudience: 'IT users',
+      description: 'desc',
+      createdAt: '2026-03-13T02:20:04'
+    },
+    {
+      campaignId: 'CAM09495',
+      campaignName: 'Test Campaign7',
+      campaignStatus: 'pass',
+      targetSize: 50,
+      expectedCloseDate: '2026-03-15',
+      targetAudience: 'IT users',
+      description: 'desc',
+      createdAt: '2026-03-13T02:14:08'
+    },
+    {
+      campaignId: 'CAM09492',
+      campaignName: 'API CampaignSSS',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T02:10:36'
+    },
+    {
+      campaignId: 'CAM09491',
+      campaignName: 'Test Campaign 123',
+      campaignStatus: 'pass',
+      targetSize: 50,
+      expectedCloseDate: '2026-03-15',
+      targetAudience: 'IT users',
+      description: 'desc',
+      createdAt: '2026-03-13T02:07:40'
+    },
+    {
+      campaignId: 'CAM09489',
+      campaignName: 'APINinjaCRM Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T02:02:47'
+    },
+    {
+      campaignId: 'CAM09488',
+      campaignName: 'Xcamp',
+      campaignStatus: 'Active',
+      targetSize: 10,
+      expectedCloseDate: '2026-08-23',
+      targetAudience: 'Thousand',
+      description: 'This is a campaign created for Selenium testing.',
+      createdAt: '2026-03-13T01:57:02'
+    },
+    {
+      campaignId: 'CAM09485',
+      campaignName: 'Spring SaleammdC',
+      campaignStatus: '',
+      targetSize: 18900,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T01:23:12'
+    },
+    {
+      campaignId: 'CAM09483',
+      campaignName: 'TestTwo API Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T00:11:10'
+    },
+    {
+      campaignId: 'CAM09482',
+      campaignName: 'APIii Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T00:10:42'
+    },
+    {
+      campaignId: 'CAM09474',
+      campaignName: 'API Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T00:04:38'
+    },
+    {
+      campaignId: 'CAM09472',
+      campaignName: 'Camp_787',
+      campaignStatus: 'Active',
+      targetSize: 10,
+      expectedCloseDate: '2026-03-31',
+      targetAudience: 'abc',
+      description: 'Test Description',
+      createdAt: '2026-03-12T23:34:59'
+    },
+    {
+      campaignId: 'CAM09470',
+      campaignName: 'Camp_87',
+      campaignStatus: 'Active',
+      targetSize: 10,
+      expectedCloseDate: '2026-03-31',
+      targetAudience: 'abc',
+      description: 'Test Description',
+      createdAt: '2026-03-12T23:26:29'
+    },
+    {
+      campaignId: 'CAM09469',
+      campaignName: 'Camp_8',
+      campaignStatus: 'Active',
+      targetSize: 10,
+      expectedCloseDate: '2026-03-31',
+      targetAudience: 'abc',
+      description: 'Test Description',
+      createdAt: '2026-03-12T23:26:11'
+    }
+  ],
+  pageable: {
+    sort: { unsorted: true, sorted: false, empty: true },
+    offset: 0,
+    pageNumber: 0,
+    pageSize: 20,
+    unpaged: false,
+    paged: true
+  },
+  last: false,
+  totalElements: 127,
+  totalPages: 7,
+  size: 20,
+  number: 0,
+  sort: { unsorted: true, sorted: false, empty: true },
+  first: true,
+  numberOfElements: 20,
+  empty: false
+}

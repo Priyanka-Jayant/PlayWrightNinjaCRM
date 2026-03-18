@@ -1,0 +1,223 @@
+Calling URL: http://49.249.28.218:8098/campaign/all
+Status: 200
+Response Body: {
+  content: [
+    {
+      campaignId: 'CAM09705',
+      campaignName: 'Shawbwo',
+      campaignStatus: '',
+      targetSize: 660,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T22:21:50'
+    },
+    {
+      campaignId: 'CAM09704',
+      campaignName: 'df',
+      campaignStatus: '',
+      targetSize: 0,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T22:08:31'
+    },
+    {
+      campaignId: 'CAM09703',
+      campaignName: 'APIWintersix Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T22:02:03'
+    },
+    {
+      campaignId: 'CAM09699',
+      campaignName: 'APIWinterfour Campaign',
+      campaignStatus: null,
+      targetSize: 10000,
+      expectedCloseDate: null,
+      targetAudience: null,
+      description: null,
+      createdAt: '2026-03-13T21:56:20'
+    },
+    {
+      campaignId: 'CAM09698',
+      campaignName: 'Playwrightmmpwfe',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-13T21:53:36'
+    },
+    {
+      campaignId: 'CAM09697',
+      campaignName: 'Playwrightmmpvxcv',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a playwright created Campaign',
+      createdAt: '2026-03-13T21:53:29'
+    },
+    {
+      campaignId: 'CAM09696',
+      campaignName: 'API Campaignmmp3vlhw',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-13T21:53:08'
+    },
+    {
+      campaignId: 'CAM09693',
+      campaignName: 'Postman Test 6',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'Postman campaign',
+      createdAt: '2026-03-13T21:41:45'
+    },
+    {
+      campaignId: 'CAM09688',
+      campaignName: 'SaveTurtle new',
+      campaignStatus: 'Active',
+      targetSize: 4,
+      expectedCloseDate: '2026-05-14',
+      targetAudience: 'Public',
+      description: 'jhhjgjh',
+      createdAt: '2026-03-13T21:40:56'
+    },
+    {
+      campaignId: 'CAM09684',
+      campaignName: 'SaveTurtle',
+      campaignStatus: 'Active',
+      targetSize: 3,
+      expectedCloseDate: '2026-03-14',
+      targetAudience: 'Public',
+      description: 'hgfhgfhdf',
+      createdAt: '2026-03-13T21:40:00'
+    },
+    {
+      campaignId: 'CAM09683',
+      campaignName: 'Postman Test 5',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'Postman campaign',
+      createdAt: '2026-03-13T21:39:21'
+    },
+    {
+      campaignId: 'CAM09680',
+      campaignName: 'Covai',
+      campaignStatus: '',
+      targetSize: 14,
+      expectedCloseDate: '2026-04-12',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T19:47:40'
+    },
+    {
+      campaignId: 'CAM09679',
+      campaignName: 'Erodea',
+      campaignStatus: '',
+      targetSize: 14,
+      expectedCloseDate: '2026-04-12',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T18:54:17'
+    },
+    {
+      campaignId: 'CAM09677',
+      campaignName: 'montessoryM',
+      campaignStatus: 'active',
+      targetSize: 7,
+      expectedCloseDate: '2026-03-29',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T18:49:24'
+    },
+    {
+      campaignId: 'CAM09676',
+      campaignName: 'montessoryK',
+      campaignStatus: '',
+      targetSize: 7,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T18:49:07'
+    },
+    {
+      campaignId: 'CAM09675',
+      campaignName: 'montessoryQ',
+      campaignStatus: 'active',
+      targetSize: 7,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T18:48:04'
+    },
+    {
+      campaignId: 'CAM09672',
+      campaignName: 'montessoryX',
+      campaignStatus: '',
+      targetSize: 7,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T18:40:15'
+    },
+    {
+      campaignId: 'CAM09671',
+      campaignName: 'montessoryD',
+      campaignStatus: '',
+      targetSize: 7,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T18:37:56'
+    },
+    {
+      campaignId: 'CAM09670',
+      campaignName: 'montessoryB',
+      campaignStatus: '',
+      targetSize: 7,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T18:34:24'
+    },
+    {
+      campaignId: 'CAM09669',
+      campaignName: 'montessoryN',
+      campaignStatus: '',
+      targetSize: 7,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-13T18:32:41'
+    }
+  ],
+  pageable: {
+    sort: { unsorted: true, sorted: false, empty: true },
+    offset: 0,
+    pageNumber: 0,
+    pageSize: 20,
+    unpaged: false,
+    paged: true
+  },
+  last: false,
+  totalElements: 244,
+  totalPages: 13,
+  size: 20,
+  number: 0,
+  sort: { unsorted: true, sorted: false, empty: true },
+  first: true,
+  numberOfElements: 20,
+  empty: false
+}

@@ -1,0 +1,3 @@
+Status: 202
+jwtToken: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJybWd5YW50cmEiLCJleHAiOjE3NzMzNzQxNTcsImlhdCI6MTc3MzMzODE1N30.Vxjy1Du3Q3z2cF7XJvoOsNyWSAod9IiAaU25Xt2PA1o
+Body: {"msg":"Successfully Logged In","username":"rmgyantra","role":"ROLE_ADMIN","jwtToken":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJybWd5YW50cmEiLCJleHAiOjE3NzMzNzQxNTcsImlhdCI6MTc3MzMzODE1N30.Vxjy1Du3Q3z2cF7XJvoOsNyWSAod9IiAaU25Xt2PA1o"}

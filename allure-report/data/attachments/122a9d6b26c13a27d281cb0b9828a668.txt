@@ -1,0 +1,3 @@
+2026-03-10T16:44:26.917Z [INFO] Navigated to login page
+2026-03-10T16:44:27.306Z [INFO] Entered invalid credentials and clicked login
+2026-03-10T16:44:27.306Z [INFO] Verified that login failed

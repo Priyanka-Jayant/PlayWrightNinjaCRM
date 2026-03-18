@@ -1,0 +1,3 @@
+2026-03-11T18:00:55.070Z [INFO] Starting Create Campaign test
+First row name: FAA Campaigns
+2026-03-11T18:00:56.200Z [INFO] Create Campaign test completed successfully

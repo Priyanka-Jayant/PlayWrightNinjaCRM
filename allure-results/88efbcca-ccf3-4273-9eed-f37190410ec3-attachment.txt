@@ -1,0 +1,8 @@
+Status: 500
+Response Body: {
+  timestamp: '2026-03-13T16:29:35.859+0000',
+  status: 500,
+  error: 'Internal Server Error',
+  message: 'JWT expired at 2026-03-13T09:25:57Z. Current time: 2026-03-13T21:59:35Z, a difference of 45218853 milliseconds.  Allowed clock skew: 0 milliseconds.',
+  path: '/campaign'
+}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"campaignId":"CAM09483","campaignName":"TestTwo API Campaign","campaignStatus":null,"targetSize":10000,"expectedCloseDate":null,"targetAudience":null,"description":null,"createdAt":"2026-03-13T00:11:10"}
