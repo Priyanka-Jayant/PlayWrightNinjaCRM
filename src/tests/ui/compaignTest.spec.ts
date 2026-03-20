@@ -7,10 +7,13 @@ import { log } from 'node:console';
 test.describe("Home Page Tests", () => {
   test.beforeEach(async ({ loginPage }) => {
     logger.info("Starting login before each test");
-    const username = process.env.USERNAME!;
-   const password = process.env.PASSWORD!;
-    await loginPage.navigateTo(testData.url); 
-    await loginPage.login(username, password);  
+      const username = process.env.APP_USERNAME || '';
+      const password = process.env.APP_PASSWORD || '';
+        console.log("username:", username); 
+        console.log("password:", password);
+        await loginPage.navigateTo(testData.url);
+        await loginPage.login(username, password);
+    
   });  
 
   test("Navigate to Campaigns page", async ({ campaignPage }) => {

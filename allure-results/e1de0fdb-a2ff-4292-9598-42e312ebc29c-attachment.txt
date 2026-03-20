@@ -1,0 +1,222 @@
+Status: 200
+Response Body: {
+  content: [
+    {
+      campaignId: 'CAM11396',
+      campaignName: 'AbhiiiiKk',
+      campaignStatus: 'pass',
+      targetSize: 2,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:23:37'
+    },
+    {
+      campaignId: 'CAM11395',
+      campaignName: 'AbhiiiiSs',
+      campaignStatus: 'pass',
+      targetSize: 2,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:23:19'
+    },
+    {
+      campaignId: 'CAM11394',
+      campaignName: 'HHeccjfz',
+      campaignStatus: '',
+      targetSize: 22,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:22:59'
+    },
+    {
+      campaignId: 'CAM11393',
+      campaignName: 'HHpqgnjr',
+      campaignStatus: '',
+      targetSize: 22,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:22:49'
+    },
+    {
+      campaignId: 'CAM11392',
+      campaignName: 'HHPost',
+      campaignStatus: '',
+      targetSize: 15,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: 'Test',
+      createdAt: '2026-03-20T23:22:21'
+    },
+    {
+      campaignId: 'CAM11390',
+      campaignName: 'Shae',
+      campaignStatus: '',
+      targetSize: 538,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:21:01'
+    },
+    {
+      campaignId: 'CAM11388',
+      campaignName: 'Nameoftheadd',
+      campaignStatus: '',
+      targetSize: 20000,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:18:40'
+    },
+    {
+      campaignId: 'CAM11376',
+      campaignName: 'AutomationCampaign_6c1c53f2-ce1d-431b-ae61-b31951729e0c',
+      campaignStatus: 'Active',
+      targetSize: 1000,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: 'students',
+      description: 'created via API Playwright',
+      createdAt: '2026-03-20T23:00:19'
+    },
+    {
+      campaignId: 'CAM11369',
+      campaignName: 'Playwright Campaign 1774027515267',
+      campaignStatus: 'Active',
+      targetSize: 0,
+      expectedCloseDate: '2026-12-31',
+      targetAudience: 'Developers',
+      description: 'Playwright API test campaign',
+      createdAt: '2026-03-20T22:55:14'
+    },
+    {
+      campaignId: 'CAM11368',
+      campaignName: 'Playwright Campaign 1774027511568',
+      campaignStatus: 'Active',
+      targetSize: 100,
+      expectedCloseDate: '2026-12-31',
+      targetAudience: 'Developers',
+      description: 'Playwright API test campaign',
+      createdAt: '2026-03-20T22:55:10'
+    },
+    {
+      campaignId: 'CAM11365',
+      campaignName: 'Updated Spring Sale',
+      campaignStatus: 'Completed',
+      targetSize: 2500,
+      expectedCloseDate: '2026-06-15',
+      targetAudience: 'Premium Customers',
+      description: 'Updated campaign after completion',
+      createdAt: '2026-03-20T22:39:57'
+    },
+    {
+      campaignId: 'CAM11360',
+      campaignName: 'QAmmzcpzf',
+      campaignStatus: '',
+      targetSize: 30,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T22:32:09'
+    },
+    {
+      campaignId: 'CAM11352',
+      campaignName: 'API Campaignmmz52ox9',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-20T22:24:20'
+    },
+    {
+      campaignId: 'CAM11350',
+      campaignName: 'Flash Deal Weekend',
+      campaignStatus: 'Active',
+      targetSize: 1200,
+      expectedCloseDate: '2026-04-05',
+      targetAudience: 'Online Shoppers',
+      description: 'Limited-time weekend flash deals on selected products',
+      createdAt: '2026-03-20T22:23:44'
+    },
+    {
+      campaignId: 'CAM11348',
+      campaignName: 'API Campaignmmz519kc',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-20T22:23:13'
+    },
+    {
+      campaignId: 'CAM11343',
+      campaignName: 'Holiday Mega Sale',
+      campaignStatus: 'Active',
+      targetSize: 3000,
+      expectedCloseDate: '2026-12-25',
+      targetAudience: 'All Customers',
+      description: 'Year-end holiday discounts on all major product categories',
+      createdAt: '2026-03-20T22:13:42'
+    },
+    {
+      campaignId: 'CAM11342',
+      campaignName: 'Back to School Offers',
+      campaignStatus: 'Completed',
+      targetSize: 2000,
+      expectedCloseDate: '2026-08-15',
+      targetAudience: 'Students',
+      description: 'Special discounts on laptops, tablets, and accessories for students',
+      createdAt: '2026-03-20T22:06:35'
+    },
+    {
+      campaignId: 'CAM11341',
+      campaignName: 'jsmm',
+      campaignStatus: '',
+      targetSize: 20,
+      expectedCloseDate: '2026-04-12',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T22:05:56'
+    },
+    {
+      campaignId: 'CAM11339',
+      campaignName: 'Spring Sale 2026',
+      campaignStatus: 'Active',
+      targetSize: 1500,
+      expectedCloseDate: '2026-05-31',
+      targetAudience: 'Retail Customers',
+      description: 'Promotional campaign offering discounts on electronics and accessories',
+      createdAt: '2026-03-20T22:02:48'
+    },
+    {
+      campaignId: 'CAM11335',
+      campaignName: 'QWERTYTWOONE Campaig',
+      campaignStatus: '',
+      targetSize: 20000,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T21:48:44'
+    }
+  ],
+  pageable: {
+    sort: { unsorted: true, sorted: false, empty: true },
+    offset: 0,
+    pageNumber: 0,
+    pageSize: 20,
+    unpaged: false,
+    paged: true
+  },
+  last: false,
+  totalElements: 928,
+  totalPages: 47,
+  size: 20,
+  number: 0,
+  sort: { unsorted: true, sorted: false, empty: true },
+  first: true,
+  numberOfElements: 20,
+  empty: false
+}

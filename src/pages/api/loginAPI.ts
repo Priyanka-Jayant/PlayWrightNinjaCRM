@@ -13,8 +13,8 @@ export class LoginAPI extends BaseAPI{
 
 
   async loginValid(): Promise<string> {
-    const username = process.env.USERNAME!;
-const password = process.env.PASSWORD!;
+    const username = process.env.APP_USERNAME || '';
+    const password = process.env.APP_PASSWORD || '';
   const response = await this.get(
     testDataAPI.APIurlLogin,
     this.getBasicAuthHeader(username, password)

@@ -1,0 +1,12 @@
+Updating Campaign with ID: CAM11381
+Status: 200
+Response Body: {
+  campaignId: 'CAM11381',
+  campaignName: 'TestSevenonetwo API Campaign',
+  campaignStatus: null,
+  targetSize: 10000,
+  expectedCloseDate: null,
+  targetAudience: null,
+  description: null,
+  createdAt: '2026-03-20T23:08:47'
+}

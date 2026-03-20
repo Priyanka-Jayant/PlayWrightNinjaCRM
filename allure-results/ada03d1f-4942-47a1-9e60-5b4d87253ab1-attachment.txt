@@ -1,0 +1,2 @@
+2026-03-20T17:27:13.228Z [INFO] Starting login before each test
+2026-03-20T17:27:20.022Z [INFO] Starting search for a campaign by ID test

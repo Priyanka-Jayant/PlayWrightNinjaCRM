@@ -1,0 +1,6 @@
+2026-03-20T19:36:42.702Z [INFO] Starting login before each test
+username: rmgyantra
+password: rmgy@9999
+2026-03-20T19:36:48.558Z [INFO] Starting Create Campaign test
+First row name: QWERTYTccc Campaigns
+2026-03-20T19:36:50.031Z [INFO] Create Campaign test completed successfully

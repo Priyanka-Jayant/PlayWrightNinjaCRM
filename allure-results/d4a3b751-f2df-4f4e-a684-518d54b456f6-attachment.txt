@@ -1,0 +1,5 @@
+2026-03-20T19:37:52.230Z [INFO] Starting login before each test
+username: rmgyantra
+password: rmgy@9999
+2026-03-20T19:37:58.232Z [INFO] Starting select search type from dropdown test
+2026-03-20T19:37:58.745Z [INFO] Select search type from dropdown test completed successfully

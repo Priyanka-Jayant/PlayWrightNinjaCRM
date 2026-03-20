@@ -255,3 +255,156 @@
 2026-03-20T16:18:46.694Z [INFO] Create Campaign test completed successfully
 2026-03-20T16:18:46.794Z [INFO] Search for a campaign by ID test completed successfully
 2026-03-20T16:18:49.815Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T17:19:56.867Z [INFO] Starting login before each test
+2026-03-20T17:19:56.878Z [INFO] Starting login before each test
+2026-03-20T17:19:56.882Z [INFO] Starting login before each test
+2026-03-20T17:19:57.334Z [INFO] Starting login test with valid credentials
+2026-03-20T17:19:58.369Z [INFO] Starting login before each test
+2026-03-20T17:19:58.562Z [INFO] Starting login test with invalid credentials
+2026-03-20T17:20:03.903Z [INFO] Starting navigation to Campaigns page test
+2026-03-20T17:20:04.072Z [INFO] Starting search for a campaign by ID test
+2026-03-20T17:20:04.153Z [INFO] Starting Create Campaign test
+2026-03-20T17:20:04.285Z [INFO] Starting select search type from dropdown test
+2026-03-20T17:20:04.381Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T17:27:11.367Z [INFO] Starting login before each test
+2026-03-20T17:27:11.373Z [INFO] Starting login before each test
+2026-03-20T17:27:11.385Z [INFO] Starting login before each test
+2026-03-20T17:27:11.844Z [INFO] Starting login test with valid credentials
+2026-03-20T17:27:13.228Z [INFO] Starting login before each test
+2026-03-20T17:27:13.479Z [INFO] Starting login test with invalid credentials
+2026-03-20T17:27:19.231Z [INFO] Starting Create Campaign test
+2026-03-20T17:27:19.307Z [INFO] Starting navigation to Campaigns page test
+2026-03-20T17:27:19.325Z [INFO] Starting select search type from dropdown test
+2026-03-20T17:27:19.352Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T17:27:20.022Z [INFO] Starting search for a campaign by ID test
+2026-03-20T17:30:46.882Z [INFO] Starting login test with valid credentials
+2026-03-20T17:32:11.657Z [INFO] Starting login test with valid credentials
+2026-03-20T17:36:39.774Z [INFO] Starting login test with valid credentials
+2026-03-20T17:36:45.415Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T17:37:06.824Z [INFO] Starting login before each test
+2026-03-20T17:37:06.942Z [INFO] Starting login before each test
+2026-03-20T17:37:07.029Z [INFO] Starting login before each test
+2026-03-20T17:37:07.554Z [INFO] Starting login before each test
+2026-03-20T17:37:08.731Z [INFO] Starting login test with valid credentials
+2026-03-20T17:37:08.936Z [INFO] Starting login test with invalid credentials
+2026-03-20T17:37:13.621Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T17:37:14.072Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T17:38:48.446Z [INFO] Starting login before each test
+2026-03-20T17:38:48.455Z [INFO] Starting login before each test
+2026-03-20T17:38:48.476Z [INFO] Starting login before each test
+2026-03-20T17:38:48.922Z [INFO] Starting login test with valid credentials
+2026-03-20T17:38:48.936Z [INFO] Starting login before each test
+2026-03-20T17:38:53.149Z [INFO] Starting login test with invalid credentials
+2026-03-20T17:38:54.432Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T17:38:58.258Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T17:55:51.290Z [INFO] Starting login before each test
+2026-03-20T17:55:51.310Z [INFO] Starting login before each test
+2026-03-20T17:55:51.382Z [INFO] Starting login before each test
+2026-03-20T17:55:51.838Z [INFO] Starting login before each test
+2026-03-20T17:55:51.860Z [INFO] Starting login test with valid credentials
+2026-03-20T17:55:55.746Z [INFO] Starting login test with invalid credentials
+2026-03-20T17:55:58.507Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T17:56:00.441Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T17:56:55.062Z [INFO] Starting login before each test
+2026-03-20T17:56:55.115Z [INFO] Starting login before each test
+2026-03-20T17:56:55.176Z [INFO] Starting login before each test
+2026-03-20T17:56:55.769Z [INFO] Starting login before each test
+2026-03-20T17:56:55.848Z [INFO] Starting login test with valid credentials
+2026-03-20T17:56:59.695Z [INFO] Starting login test with invalid credentials
+2026-03-20T17:57:01.627Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T17:57:04.602Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T17:57:52.616Z [INFO] Starting login before each test
+2026-03-20T17:57:52.702Z [INFO] Starting login before each test
+2026-03-20T17:57:52.737Z [INFO] Starting login before each test
+2026-03-20T17:57:53.347Z [INFO] Starting login before each test
+2026-03-20T17:57:53.377Z [INFO] Starting login test with valid credentials
+2026-03-20T17:57:57.016Z [INFO] Starting login test with invalid credentials
+2026-03-20T17:57:59.073Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T17:58:01.881Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T18:01:40.261Z [INFO] Starting login before each test
+2026-03-20T18:01:40.389Z [INFO] Starting login before each test
+2026-03-20T18:01:40.537Z [INFO] Starting login before each test
+2026-03-20T18:01:40.956Z [INFO] Starting login before each test
+2026-03-20T18:01:41.044Z [INFO] Starting login test with valid credentials
+2026-03-20T18:01:44.877Z [INFO] Starting login test with invalid credentials
+2026-03-20T18:01:46.656Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T18:01:50.062Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T18:03:35.270Z [INFO] Starting login before each test
+2026-03-20T18:03:35.324Z [INFO] Starting login before each test
+2026-03-20T18:03:35.338Z [INFO] Starting login before each test
+2026-03-20T18:03:36.148Z [INFO] Starting login before each test
+2026-03-20T18:03:36.160Z [INFO] Starting login test with valid credentials
+2026-03-20T18:03:39.863Z [INFO] Starting login test with invalid credentials
+2026-03-20T18:03:40.285Z [INFO] Starting select search type from dropdown test
+2026-03-20T18:03:40.380Z [INFO] Starting Create Campaign test
+2026-03-20T18:03:40.728Z [INFO] Select search type from dropdown test completed successfully
+2026-03-20T18:03:40.796Z [INFO] Starting navigation to Campaigns page test
+2026-03-20T18:03:40.809Z [INFO] Starting search for a campaign by ID test
+2026-03-20T18:03:41.245Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-20T18:03:41.668Z [INFO] Create Campaign test completed successfully
+2026-03-20T18:03:41.754Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T18:03:42.040Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-20T18:03:44.802Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T18:19:09.350Z [INFO] Starting login before each test
+2026-03-20T18:19:09.365Z [INFO] Starting login before each test
+2026-03-20T18:19:09.411Z [INFO] Starting login before each test
+2026-03-20T18:19:09.836Z [INFO] Starting login before each test
+2026-03-20T18:19:11.417Z [INFO] Starting login test with valid credentials
+2026-03-20T18:19:11.503Z [INFO] Starting login test with invalid credentials
+2026-03-20T18:19:17.653Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T18:19:17.971Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T18:20:35.582Z [INFO] Starting login before each test
+2026-03-20T18:20:35.620Z [INFO] Starting login before each test
+2026-03-20T18:20:35.640Z [INFO] Starting login before each test
+2026-03-20T18:20:36.057Z [INFO] Starting login before each test
+2026-03-20T18:20:36.109Z [INFO] Starting login test with valid credentials
+2026-03-20T18:20:40.292Z [INFO] Starting login test with invalid credentials
+2026-03-20T18:20:41.587Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T18:20:45.407Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T19:22:11.504Z [INFO] Starting login before each test
+2026-03-20T19:22:11.519Z [INFO] Starting login before each test
+2026-03-20T19:22:11.537Z [INFO] Starting login before each test
+2026-03-20T19:22:11.568Z [INFO] Starting login before each test
+2026-03-20T19:22:11.573Z [INFO] Starting login test with valid credentials
+2026-03-20T19:22:15.358Z [INFO] Starting login test with invalid credentials
+2026-03-20T19:22:20.342Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T19:22:21.720Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T19:32:33.201Z [INFO] Starting login before each test
+2026-03-20T19:32:33.341Z [INFO] Starting login before each test
+2026-03-20T19:32:33.376Z [INFO] Starting login before each test
+2026-03-20T19:32:34.179Z [INFO] Starting login before each test
+2026-03-20T19:32:34.186Z [INFO] Starting login test with valid credentials
+2026-03-20T19:32:38.764Z [INFO] Starting login test with invalid credentials
+2026-03-20T19:32:40.683Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T19:32:44.432Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T19:36:42.624Z [INFO] Starting login before each test
+2026-03-20T19:36:42.702Z [INFO] Starting login before each test
+2026-03-20T19:36:42.705Z [INFO] Starting login before each test
+2026-03-20T19:36:43.655Z [INFO] Starting login before each test
+2026-03-20T19:36:43.705Z [INFO] Starting login test with valid credentials
+2026-03-20T19:36:48.316Z [INFO] Starting select search type from dropdown test
+2026-03-20T19:36:48.558Z [INFO] Starting Create Campaign test
+2026-03-20T19:36:48.685Z [INFO] Starting login test with invalid credentials
+2026-03-20T19:36:48.712Z [INFO] Starting navigation to Campaigns page test
+2026-03-20T19:36:49.178Z [INFO] Select search type from dropdown test completed successfully
+2026-03-20T19:36:49.613Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-20T19:36:49.734Z [INFO] Starting search for a campaign by ID test
+2026-03-20T19:36:50.031Z [INFO] Create Campaign test completed successfully
+2026-03-20T19:36:50.232Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T19:36:50.974Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-20T19:36:55.605Z [INFO] Login test with invalid credentials completed successfully
+2026-03-20T19:37:52.230Z [INFO] Starting login before each test
+2026-03-20T19:37:52.282Z [INFO] Starting login before each test
+2026-03-20T19:37:52.294Z [INFO] Starting login before each test
+2026-03-20T19:37:52.738Z [INFO] Starting login before each test
+2026-03-20T19:37:53.075Z [INFO] Starting login test with valid credentials
+2026-03-20T19:37:57.729Z [INFO] Starting login test with invalid credentials
+2026-03-20T19:37:58.232Z [INFO] Starting select search type from dropdown test
+2026-03-20T19:37:58.243Z [INFO] Starting navigation to Campaigns page test
+2026-03-20T19:37:58.562Z [INFO] Starting Create Campaign test
+2026-03-20T19:37:58.745Z [INFO] Select search type from dropdown test completed successfully
+2026-03-20T19:37:58.790Z [INFO] Navigation to Campaigns page test completed successfully
+2026-03-20T19:37:59.142Z [INFO] Starting search for a campaign by ID test
+2026-03-20T19:37:59.671Z [INFO] Login test with valid credentials completed successfully
+2026-03-20T19:38:00.286Z [INFO] Search for a campaign by ID test completed successfully
+2026-03-20T19:38:03.443Z [INFO] Login test with invalid credentials completed successfully

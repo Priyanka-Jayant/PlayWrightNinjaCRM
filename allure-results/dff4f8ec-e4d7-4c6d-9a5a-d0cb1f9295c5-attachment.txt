@@ -1,0 +1,4 @@
+2026-03-20T18:03:35.324Z [INFO] Starting login before each test
+2026-03-20T18:03:40.380Z [INFO] Starting Create Campaign test
+First row name: QWERTYTWOONEWWW Camp
+2026-03-20T18:03:41.668Z [INFO] Create Campaign test completed successfully

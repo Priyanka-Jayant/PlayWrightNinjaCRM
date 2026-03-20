@@ -1,0 +1,222 @@
+Status: 200
+Response Body: {
+  content: [
+    {
+      campaignId: 'CAM11432',
+      campaignName: 'AbhiiiiMm',
+      campaignStatus: 'pass',
+      targetSize: 2,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-21T00:44:45'
+    },
+    {
+      campaignId: 'CAM11429',
+      campaignName: 'Campaignboyhg',
+      campaignStatus: '',
+      targetSize: 40,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-21T00:13:46'
+    },
+    {
+      campaignId: 'CAM11428',
+      campaignName: 'Campaignsqcbu',
+      campaignStatus: '',
+      targetSize: 40,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-21T00:12:48'
+    },
+    {
+      campaignId: 'CAM11425',
+      campaignName: 'API Campaignmmz8u5nw',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-21T00:09:40'
+    },
+    {
+      campaignId: 'CAM11423',
+      campaignName: 'API Campaignmmz8ohoo',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-21T00:05:16'
+    },
+    {
+      campaignId: 'CAM11421',
+      campaignName: 'API Campaignmmz8gyl1',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-20T23:59:24'
+    },
+    {
+      campaignId: 'CAM11416',
+      campaignName: 'API Campaignmmz87xid',
+      campaignStatus: 'to do',
+      targetSize: 299,
+      expectedCloseDate: '2026-12-03',
+      targetAudience: 'sales team',
+      description: 'This is a Playwright Campaign',
+      createdAt: '2026-03-20T23:52:23'
+    },
+    {
+      campaignId: 'CAM11414',
+      campaignName: 'AbhiiiiZz',
+      campaignStatus: 'pass',
+      targetSize: 2,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:50:04'
+    },
+    {
+      campaignId: 'CAM11412',
+      campaignName: 'HHqmssjm',
+      campaignStatus: '',
+      targetSize: 22,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:45:39'
+    },
+    {
+      campaignId: 'CAM11411',
+      campaignName: 'HHssbbje',
+      campaignStatus: '',
+      targetSize: 22,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:45:27'
+    },
+    {
+      campaignId: 'CAM11407',
+      campaignName: 'QWERTYTWOONEWWW Camp',
+      campaignStatus: '',
+      targetSize: 20000,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:33:39'
+    },
+    {
+      campaignId: 'CAM11396',
+      campaignName: 'AbhiiiiKk',
+      campaignStatus: 'pass',
+      targetSize: 2,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:23:37'
+    },
+    {
+      campaignId: 'CAM11395',
+      campaignName: 'AbhiiiiSs',
+      campaignStatus: 'pass',
+      targetSize: 2,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:23:19'
+    },
+    {
+      campaignId: 'CAM11394',
+      campaignName: 'HHeccjfz',
+      campaignStatus: '',
+      targetSize: 22,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:22:59'
+    },
+    {
+      campaignId: 'CAM11393',
+      campaignName: 'HHpqgnjr',
+      campaignStatus: '',
+      targetSize: 22,
+      expectedCloseDate: '2026-03-27',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:22:49'
+    },
+    {
+      campaignId: 'CAM11392',
+      campaignName: 'HHPost',
+      campaignStatus: '',
+      targetSize: 15,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: 'Test',
+      createdAt: '2026-03-20T23:22:21'
+    },
+    {
+      campaignId: 'CAM11390',
+      campaignName: 'Shae',
+      campaignStatus: '',
+      targetSize: 538,
+      expectedCloseDate: '',
+      targetAudience: '',
+      description: '',
+      createdAt: '2026-03-20T23:21:01'
+    },
+    {
+      campaignId: 'CAM11376',
+      campaignName: 'AutomationCampaign_6c1c53f2-ce1d-431b-ae61-b31951729e0c',
+      campaignStatus: 'Active',
+      targetSize: 1000,
+      expectedCloseDate: '2026-03-30',
+      targetAudience: 'students',
+      description: 'created via API Playwright',
+      createdAt: '2026-03-20T23:00:19'
+    },
+    {
+      campaignId: 'CAM11369',
+      campaignName: 'Playwright Campaign 1774027515267',
+      campaignStatus: 'Active',
+      targetSize: 0,
+      expectedCloseDate: '2026-12-31',
+      targetAudience: 'Developers',
+      description: 'Playwright API test campaign',
+      createdAt: '2026-03-20T22:55:14'
+    },
+    {
+      campaignId: 'CAM11368',
+      campaignName: 'Playwright Campaign 1774027511568',
+      campaignStatus: 'Active',
+      targetSize: 100,
+      expectedCloseDate: '2026-12-31',
+      targetAudience: 'Developers',
+      description: 'Playwright API test campaign',
+      createdAt: '2026-03-20T22:55:10'
+    }
+  ],
+  pageable: {
+    sort: { unsorted: true, sorted: false, empty: true },
+    offset: 0,
+    pageNumber: 0,
+    pageSize: 20,
+    unpaged: false,
+    paged: true
+  },
+  last: false,
+  totalElements: 938,
+  totalPages: 47,
+  size: 20,
+  number: 0,
+  sort: { unsorted: true, sorted: false, empty: true },
+  first: true,
+  numberOfElements: 20,
+  empty: false
+}

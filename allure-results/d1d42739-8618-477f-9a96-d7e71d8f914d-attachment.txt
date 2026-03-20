@@ -1,0 +1,5 @@
+2026-03-20T19:36:42.624Z [INFO] Starting login before each test
+username: rmgyantra
+password: rmgy@9999
+2026-03-20T19:36:48.712Z [INFO] Starting navigation to Campaigns page test
+2026-03-20T19:36:49.613Z [INFO] Navigation to Campaigns page test completed successfully
